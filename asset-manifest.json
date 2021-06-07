@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KetoMenu/static/css/main.ccafceab.chunk.css",
-    "main.js": "/KetoMenu/static/js/main.e16eeede.chunk.js",
-    "main.js.map": "/KetoMenu/static/js/main.e16eeede.chunk.js.map",
+    "main.js": "/KetoMenu/static/js/main.df660d3a.chunk.js",
+    "main.js.map": "/KetoMenu/static/js/main.df660d3a.chunk.js.map",
     "runtime-main.js": "/KetoMenu/static/js/runtime-main.7c4e42f0.js",
     "runtime-main.js.map": "/KetoMenu/static/js/runtime-main.7c4e42f0.js.map",
     "static/js/2.291e3b14.chunk.js": "/KetoMenu/static/js/2.291e3b14.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7c4e42f0.js",
     "static/js/2.291e3b14.chunk.js",
     "static/css/main.ccafceab.chunk.css",
-    "static/js/main.e16eeede.chunk.js"
+    "static/js/main.df660d3a.chunk.js"
   ]
 }
